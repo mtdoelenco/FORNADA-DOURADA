@@ -1,0 +1,6 @@
+{
+  "name": "Fornada Dourada - Atendente Virtual",
+  "description": "Atendimento acolhedor e pedidos da confeitaria artesanal Fornada Dourada com a atendente virtual Dourada e fechamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
